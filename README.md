@@ -2,6 +2,8 @@
 
 ![bomb gif](images/bomb.gif)
 
+<!-- favicon png snagged from gif by Placidplace/Pixabay -->
+
 > “Your dreams are on the other side of your grit.” – Unknown
 
 "sometimes you must destroy notions of who you think you know you are to position yourself to rebuild, grow, evolve" ... LMSW

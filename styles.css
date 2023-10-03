@@ -1,0 +1,22 @@
+*,
+html {
+  box-sizing: border-box;
+}
+.gg-header {
+  color: #72a9c4;
+  width: 87%;
+  font-size: 3.45rem;
+  text-align: center;
+  font-family: Dela Gothic One, cursive;
+}
+details {
+  margin: 0.5rem 5.75rem;
+}
+details:hover {
+  color: #72a9c4;
+  transform: scale(1.25);
+  transition: ease-in-out 1.5s;
+}
+.col-2 {
+  float: right;
+}

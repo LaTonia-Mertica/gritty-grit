@@ -8,6 +8,8 @@
 
 "sometimes you must destroy notions of who you think you know you are to position yourself to rebuild, grow, evolve" ... LMSW
 
+##### [VISIT GRITTIER LIVE](https://www.latoniamertica.dev/gritty-grit/)
+
 ## 7 STEPS TO A GRITTY GRIT LIFE<br>
 
 [ ] **Set Long-Term Goals:** Define clear, meaningful, and challenging long-term goals. These goals should be aligned with your values and provide a sense of purpose. Having a compelling vision can sustain motivation through difficulties.

@@ -1,4 +1,4 @@
-# GRITTY GRIT
+# GRITTY GRIT aka GRITTIER
 
 ![bomb gif](images/bomb.gif)
 

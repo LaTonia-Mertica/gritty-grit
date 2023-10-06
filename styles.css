@@ -1,8 +1,10 @@
+/* apply to all elements on the page */
 *,
 *:before,
 *:after {
   box-sizing: border-box;
 }
+/* set video as background */
 video {
   position: fixed;
   right: 0;
@@ -10,12 +12,14 @@ video {
   min-width: 100%;
   min-height: 100%;
 }
+/* style video controls */
 video::-webkit-media-controls-panel {
   position: absolute;
   top: 3rem;
   width: 21%;
   background-color: rgba(114, 169, 196, 0.5);
 }
+/* styles for navigation */
 nav {
   background-color: rgba(114, 169, 196, 0.5);
   padding: 0.25rem;
@@ -28,15 +32,17 @@ ul {
   justify-content: space-evenly;
   list-style-type: none;
 }
+a.navLinks {
+  font-size: small;
+}
+/* styles for main header */
 .g-header {
   color: #72a9c4;
   width: 87%;
   font-size: 5.45rem;
   font-family: Dela Gothic One, cursive;
 }
-a.navLinks {
-  font-size: small;
-}
+/* styles for main body elements */
 details {
   margin-bottom: 2.25rem;
 }
@@ -74,6 +80,7 @@ a {
   font-size: x-small;
   text-decoration: none;
 }
+/* styles for button */
 #gritBtn {
   width: 50%;
   color: turquoise;
@@ -93,8 +100,27 @@ input[type="button"]:hover {
   transform: scale(1.05);
   transition: ease-in-out 1.3s;
 }
+/* styles for footer */
 footer {
   margin-top: 3.5rem;
   font-size: xx-small;
   text-align: center;
+}
+.fp-table {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.fp-header,
+.fp-data {
+  display: block;
+  color: #000;
+}
+.fp-data {
+  width: 40%;
+  text-align: justify;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

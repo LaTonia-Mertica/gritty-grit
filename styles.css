@@ -124,3 +124,34 @@ footer {
   margin-left: auto;
   margin-right: auto;
 }
+/* media queries */
+@media (min-width: 1376px) {
+  body {
+    display: visible;
+  }
+  .mq-view {
+    display: none;
+  }
+}
+@media (max-width: 1375px) {
+  video,
+  div > nav,
+  h1,
+  .row,
+  input,
+  footer {
+    display: none;
+  }
+  body,
+  div {
+    background-color: #72a9c4;
+  }
+  .mq-view {
+    display: visible;
+    color: #fff;
+    text-shadow: 0.05em 0.05em #000;
+    font-size: 2.25em;
+    margin: 33% 25%;
+    width: 100%;
+  }
+}

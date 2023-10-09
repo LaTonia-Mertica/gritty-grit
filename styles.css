@@ -143,15 +143,21 @@ footer {
     display: none;
   }
   body,
+  /* image courtesy markus distelrath at pixabay */
   div {
-    background-color: #72a9c4;
+    background-image: url(images/bottle-by-markus.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+  }
+  .v-content {
+    background-color: rgba(255, 255, 255, 0.3);
   }
   .mq-view {
     display: visible;
-    color: #fff;
+    color: #72a9c4;
     text-shadow: 0.05em 0.05em #000;
-    font-size: 2.25em;
-    margin: 33% 25%;
+    font-size: 2em;
+    text-align: center;
     width: 100%;
   }
 }

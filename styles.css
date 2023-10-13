@@ -37,6 +37,10 @@ ul {
 }
 a.navLinks {
   font-size: small;
+  color: #fff;
+}
+.bonus {
+  color: #000;
 }
 /* styles for main header */
 .g-header {

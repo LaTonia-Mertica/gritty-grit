@@ -42,6 +42,10 @@ a.navLinks {
 .bonus {
   color: #000;
 }
+a.navLinks:active,
+a.navLinks:focus {
+  color: #000;
+}
 /* styles for main header */
 .g-header {
   color: #72a9c4;

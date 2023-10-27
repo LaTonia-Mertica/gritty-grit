@@ -114,7 +114,11 @@ input[type="button"]:hover {
   transform: scale(1.05);
   transition: ease-in-out 1.3s;
 }
+.gritLabel {
+  color: transparent;
+}
 /* styles for footer */
+
 footer {
   margin-top: 3.5rem;
   font-size: xx-small;
